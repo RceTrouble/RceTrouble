@@ -1,7 +1,6 @@
-### Hi there 👋
-
-
-
-- 🔭 I’m currently working on new tools :)
-- 🌱 I’m learning whatever takes my interest
-- 📫 How to reach me: rce#8065
+<h1 align='center'>0xHyena</h1>
+<div id='lol'align='center'>
+    <img src="https://thumbs.gfycat.com/HospitableMerryIndianrockpython-size_restricted.gif">
+</div>
+<div id='text' align='center'>
+   <i>Jack of all trades.</i>
