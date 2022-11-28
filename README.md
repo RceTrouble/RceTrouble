@@ -7,8 +7,9 @@
 </div>
 <div id="skillz" class="skills">
     <ul clas="work">
-        <li> I am 18 years old guy, interested in cybersecurity.
-        <li> Websec, Netsec, Linux/AD exploitation, OSINT, Steganography, A little bit of IoT̈́'s.
+        <li> I am 18 years old guy, interested in cybersecurity.</li>
+        <li> Websec, Netsec, Linux/AD exploitation, OSINT, Steganography, A little bit of IoT̈́'s.</li>
+        <li> email: ssrf@tuta.io</li>
     </ul>
 </div>
 <div class='images'>
