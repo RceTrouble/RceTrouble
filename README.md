@@ -4,6 +4,9 @@
 </div>
 <div id='text' align='center'>
    <i>Jack of all trades.</i>
+   <ul>
+    <li> I am 18 years old guy, interested in cybersecurity.
+    <li> Websec, Netsec, Linux/AD exploitation, OSINT, Steganography, A little bit of IoT̈́'s.
 
 <div id="whatever">
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height='40px' width='40px' align='center'>
