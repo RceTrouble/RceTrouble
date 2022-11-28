@@ -19,7 +19,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height='40px' width='40px' align='center'>
       <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height='40px' width='40px' align='center'>
 </div>
-________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________
 <div class='services'>
       <img src="https://camo.githubusercontent.com/acff88bd2d82eff6ea10c73fbca11dd9cb70137751ef44d5f60879e5899ce37b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6170616368652d2532334434323032392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d617061636865266c6f676f436f6c6f723d7768697465">
       <img src="https://camo.githubusercontent.com/918fce8d50581bd97b7133e677a78ed2cad14f970522f219daaeb6d1c81060e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">
