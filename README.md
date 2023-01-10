@@ -9,7 +9,6 @@
     <ul clas="work">
         <li> I am an 18 years old guy, interested in cybersecurity, as well as in privacy.</li>
         <li> Websec, Netsec, Linux/AD exploitation, OSINT, Steganography, Physical Security and a little bit of IoT's.</li>
-
     </ul>
 </div>
 <div class='images'>
