@@ -5,7 +5,7 @@
 <div id='text' align='center'>
    <i>Jack of all trades.</i>
 </div>
-<div id="skillz" class="skills">
+<div id="skillz" class="skills"><br><br>
     <ul clas="work">
         <li> I am an 18 years old guy, interested in cybersecurity, as well as in privacy.</li>
         <li> Websec, Netsec, Linux/AD exploitation, OSINT, Steganography, Physical Security and a little bit of IoT's.</li>
